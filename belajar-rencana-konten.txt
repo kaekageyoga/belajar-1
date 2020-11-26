@@ -5,3 +5,5 @@ Rencana Konten :
   ini susah jir, belum dipelajari
 - html dan css
   dah mantep ini mah
+- Fundamentar data structure
+  konseptual struktur data dalam program
