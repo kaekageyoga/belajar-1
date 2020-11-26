@@ -1,4 +1,7 @@
 Rencana Konten :
 - js
+  sudah dipelajari tapi masih kentang
 - php
-- interview
+  ini susah jir, belum dipelajari
+- html dan css
+  dah mantep ini mah
