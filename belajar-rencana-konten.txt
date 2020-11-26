@@ -1,11 +1,14 @@
 Rencana Konten :
 - js
   sudah dipelajari tapi masih kentang
-  > angular
   > react
+  > vue
 - php
   ini susah jir, belum dipelajari
   > laravel
 - html dan css
   dah mantep ini mah
-
+- Fundamentar data structure
+  konseptual struktur data dalam program
+- Phyton
+  ngg sempetdah ngg tertarik
